@@ -18,6 +18,10 @@ Um crud básico, similando uma academia local, onde o usuario pode cadastrar, vi
 
 # Como executar o projeto
 
-01-Clonar repositóri
+    Abra o terminal e navegue até o diretório onde deseja clonar o projeto.
+    Clone o repositório do GitHub utilizando o seguinte comando:
 
-03-exercutar projeto
+git clone https://github.com/sromario/Computer-vision-Course.git
+
+Após isso execute o projeto
+
