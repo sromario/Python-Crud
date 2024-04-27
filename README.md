@@ -11,15 +11,13 @@ Um crud básico, similando uma academia local, onde o usuario pode cadastrar, vi
 - Django
 
 ## Front end
-- HTML / CSS
+- HTML / CSS básico
 
 ## Banco de dados
 - BD browser SQlite
 
 # Como executar o projeto
 
-01-Clonar repositório
-
-02-entrar na pasta do projeto, pela IDE
+01-Clonar repositóri
 
 03-exercutar projeto
