@@ -20,3 +20,17 @@ git clone https://github.com/sromario/Python-Crud.git
 
 Após isso execute o projeto
 
+
+# Ativar o servidor e executar
+
+    Após clonar o projeto, vá até a pasta Python-Crud e usar o comando:
+
+venv/Scripts/activate
+
+    Depois use o comando para iniciar o projeto:
+
+python manage.py runserver
+
+Vale se atentar também ao pip install django
+
+
