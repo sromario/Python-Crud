@@ -5,4 +5,4 @@ from app.models import Alunos
 class AlunosForm(ModelForm):
      class Meta:
          model = Alunos
-         fields = ["nome", "unidade", "idade"]
+         fields = ["nome", "unidade", "idade", "foto"]
